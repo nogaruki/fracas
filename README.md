@@ -2,7 +2,7 @@
 
 Petit jeu de ville dans un onglet de navigateur : une voiture, des caisses, des cônes, et une vraie physique (chaque caisse part en planches). Codé par une IA (Claude) pour une vidéo de la chaîne Nogaruki.
 
-**Jouer :** https://fracas.vercel.app (clavier, sur ordinateur)
+**Jouer :** https://fracas-jeu.vercel.app (clavier, sur ordinateur)
 
 ## Commandes
 - W ou flèche haut : avancer
