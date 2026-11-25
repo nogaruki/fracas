@@ -2,6 +2,8 @@
 
 Petit jeu de ville dans un onglet de navigateur : une voiture, des caisses, des cônes, et une vraie physique (chaque caisse part en planches). Codé par une IA (Claude) pour une vidéo de la chaîne Nogaruki.
 
+Nouveau : la ville est pleine de passants (PNJ), ajoutés à la demande d'un spectateur. Ils paniquent et s'écartent quand la voiture arrive, et aucun n'est jamais touché.
+
 **Jouer :** https://fracas-jeu.vercel.app (clavier, sur ordinateur)
 
 ## Commandes
